@@ -1,4 +1,4 @@
-## Olá, eu sou o Gustavo Kurek!
+## Olá, eu sou o Gustavo Kurek!!
 
  <div>
   <a href="https://github.com/Gustavokurek">
